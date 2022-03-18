@@ -1,0 +1,39 @@
+city,company,market_share
+"ATLANTA GA","Pink Cab",5.3520
+"ATLANTA GA","Yellow Cab",10.5056
+"AUSTIN TX","Pink Cab",9.0399
+"AUSTIN TX","Yellow Cab",12.7787
+"BOSTON MA","Pink Cab",3.0779
+"BOSTON MA","Yellow Cab",3.7453
+"CHICAGO IL","Pink Cab",1.7383
+"CHICAGO IL","Yellow Cab",1.8241
+"DALLAS TX","Pink Cab",5.0458
+"DALLAS TX","Yellow Cab",11.5720
+"DENVER CO","Pink Cab",9.2183
+"DENVER CO","Yellow Cab",13.5335
+"LOS ANGELES CA","Pink Cab",2.0787
+"LOS ANGELES CA","Yellow Cab",2.0800
+"MIAMI FL","Pink Cab",8.3734
+"MIAMI FL","Yellow Cab",13.2051
+"NASHVILLE TN","Pink Cab",14.6278
+"NASHVILLE TN","Yellow Cab",10.4099
+"NEW YORK NY","Pink Cab",0.9836
+"NEW YORK NY","Yellow Cab",0.9929
+"ORANGE COUNTY","Pink Cab",9.2196
+"ORANGE COUNTY","Yellow Cab",13.1753
+"PHOENIX AZ","Pink Cab",12.4409
+"PHOENIX AZ","Yellow Cab",16.2074
+"PITTSBURGH PA","Pink Cab",16.5797
+"PITTSBURGH PA","Yellow Cab",15.7562
+"SACRAMENTO CA","Pink Cab",15.3038
+"SACRAMENTO CA","Yellow Cab",12.4929
+"SAN DIEGO CA","Pink Cab",4.1560
+"SAN DIEGO CA","Yellow Cab",4.1232
+"SEATTLE WA","Pink Cab",7.1420
+"SEATTLE WA","Yellow Cab",9.9190
+"SILICON VALLEY","Pink Cab",7.8174
+"SILICON VALLEY","Yellow Cab",8.7422
+"TUCSON AZ","Pink Cab",11.9748
+"TUCSON AZ","Yellow Cab",16.3515
+"WASHINGTON DC","Pink Cab",1.6606
+"WASHINGTON DC","Yellow Cab",2.3622

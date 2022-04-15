@@ -1,0 +1,29 @@
+file_type: csv
+file_name: steam_reviews
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+   - 
+   - app_id
+   - app_name
+   - review_id
+   - language
+   - review
+   - timestamp_created
+   - timestamp_updated
+   - recommended
+   - votes_helpful
+   - votes_funny
+   - weighted_vote_score
+   - comment_count
+   - steam_purchase
+   - received_for_free
+   - written_during_early_access
+   - author.steamid
+   - author.num_games_owned
+   - author.num_reviews
+   - author.playtime_forever
+   - author.playtime_last_two_weeks
+   - author.playtime_at_review
+   - author.last_played
